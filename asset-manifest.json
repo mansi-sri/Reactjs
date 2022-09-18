@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/mansi-sri/Reactjs/static/css/main.f6c9075d.css",
-    "main.js": "/mansi-sri/Reactjs/static/js/main.23951b68.js",
-    "static/js/787.28cb0dcd.chunk.js": "/mansi-sri/Reactjs/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/mansi-sri/Reactjs/index.html",
-    "main.f6c9075d.css.map": "/mansi-sri/Reactjs/static/css/main.f6c9075d.css.map",
-    "main.23951b68.js.map": "/mansi-sri/Reactjs/static/js/main.23951b68.js.map",
-    "787.28cb0dcd.chunk.js.map": "/mansi-sri/Reactjs/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/Reactjs/static/css/main.f6c9075d.css",
+    "main.js": "/Reactjs/static/js/main.7300d886.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Reactjs/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/Reactjs/index.html",
+    "main.f6c9075d.css.map": "/Reactjs/static/css/main.f6c9075d.css.map",
+    "main.7300d886.js.map": "/Reactjs/static/js/main.7300d886.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Reactjs/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f6c9075d.css",
-    "static/js/main.23951b68.js"
+    "static/js/main.7300d886.js"
   ]
 }
